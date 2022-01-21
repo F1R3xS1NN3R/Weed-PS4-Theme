@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<theme>
+  <format-version>4.0</format-version>
+  <themecolor>2</themecolor>
+  <fontcolor>#FFF00000</fontcolor>
+  <fontshadowcolor>#32000000</fontshadowcolor>
+  <focuscolor>#FFFFFFFF</focuscolor>
+  <homescreen-dimmer>#3FF00000</homescreen-dimmer>
+  <functionscreen-dimmer>#3EF00000</functionscreen-dimmer>
+  <titlename-dimmer>#68000000</titlename-dimmer>
+  <homebgm-enable>True</homebgm-enable>
+  <label>weed-theme</label>
+</theme>
